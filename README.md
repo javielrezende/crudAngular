@@ -17,3 +17,6 @@ A utilização do Framework torna a programação bem dinâmica e com um código
 
 ### Vantagens encontradas para o desenvolvimento do trabalho
 No realização deste trabalho verifiquei a facilidade na escrita simples dos códigos. Por exemplo, na hora de realizar um loop que percorre um array de clientes cadastrados para serem mostrados em uma lista, ao invéz de fazer um "for" na mão, utilizei a diretiva ng-repeat. Ele percorre facilmente todos os contatos com poucas digitações.
+
+
+[Vídeo](https://youtu.be/AhbpT1krTGE) demonstrando algumas explicações.
